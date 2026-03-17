@@ -2,8 +2,8 @@
 <img src="cover1.png" height="200"  style="border-radius:50%;">
 
 
-<h2 align="center">Hi 👋, I'm a delusional scientist</h1>
-<h3 align="center">A data science student with delusional ideas</h3>
+
+<h3 align="center"> Hi, I'm a delusional scientist. A data science student with many delusional ideas</h3>
 
 <p align="center"> 
 <a href="https://www.djangoproject.com/" target="_blank"> 
