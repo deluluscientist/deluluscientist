@@ -1,11 +1,9 @@
 <p align="center">
-<img src="cover.png" width="400" height="300" style="border-radius:50% >
+<img src="cover.png" width="300" style="border-radius:50%;">
 </p>
-
 
 <h1 align="center">Hi 👋, I'm a delusional scientist</h1>
 <h3 align="center">A data science student with delusional ideas</h3>
-
 <p align="center">
 
 🔭 I’m currently working on <b>Vibe of Mine</b><br><br>
