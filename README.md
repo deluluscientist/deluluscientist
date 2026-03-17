@@ -2,10 +2,9 @@
 <img src="cover1.png"   style="border-radius:50%;">
 
 
-<h1 align="center">Hi 👋, I'm a delusional scientist</h1>
+<h2 align="center">Hi 👋, I'm a delusional scientist</h1>
 <h3 align="center">A data science student with delusional ideas</h3>
 <p align="center">
-
 🔭 I’m currently working on <b>Vibe of Mine</b><br><br>
 🌱 I’m currently learning <b>Data Science, Journalism, Cyber Security, Informatics</b><br><br>
 💬 Ask me about <b>Nothing</b><br><br>
