@@ -1,5 +1,5 @@
 
-<img src="cover.png" width="400" height="300"  style="border-radius:50%;">
+<img src="cover.png" width="1000" height="600"  style="border-radius:50%;">
 
 
 <h1 align="center">Hi 👋, I'm a delusional scientist</h1>
@@ -7,13 +7,9 @@
 <p align="center">
 
 🔭 I’m currently working on <b>Vibe of Mine</b><br><br>
-
 🌱 I’m currently learning <b>Data Science, Journalism, Cyber Security, Informatics</b><br><br>
-
 💬 Ask me about <b>Nothing</b><br><br>
-
 📫 How to reach me <b>deluscientist@gmail.com</b><br><br>
-
 ⚡ Fun fact <b>I think I don't know things very well but I enjoy trying and failing again and again</b>
 
 </p>
