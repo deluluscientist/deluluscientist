@@ -1,5 +1,5 @@
 
-<img src="cover.png" width="1000" height="300"  style="border-radius:50%;">
+<img src="cover.png" width="500" height="300"  style="border-radius:50%;">
 
 
 <h1 align="center">Hi 👋, I'm a delusional scientist</h1>
