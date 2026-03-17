@@ -4,16 +4,6 @@
 
 <h2 align="center">Hi 👋, I'm a delusional scientist</h1>
 <h3 align="center">A data science student with delusional ideas</h3>
-<p align="center">
-🔭 I’m currently working on <b>Vibe of Mine</b><br><br>
-🌱 I’m currently learning <b>Data Science, Journalism, Cyber Security, Informatics</b><br><br>
-💬 Ask me about <b>Nothing</b><br><br>
-📫 How to reach me <b>deluscientist@gmail.com</b><br><br>
-⚡ Fun fact <b>I think I don't know things very well but I enjoy trying and failing again and again</b>
-
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
 <a href="https://www.djangoproject.com/" target="_blank"> 
@@ -40,6 +30,15 @@
 <a href="https://zapier.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40"/> 
 </a> 
+</p> 
+
+<p align="center">
+🔭 I’m currently working on <b>Vibe of Mine</b><br><br>
+🌱 I’m currently learning <b>Data Science, Journalism, Cyber Security, Informatics</b><br><br>
+💬 Ask me about <b>Nothing</b><br><br>
+📫 How to reach me <b>deluscientist@gmail.com</b><br><br>
+⚡ Fun fact <b>I think I don't know things very well but I enjoy trying and failing again and again</b>
+
 </p>
 
 <h3 align="center">Connect with me:</h3>
